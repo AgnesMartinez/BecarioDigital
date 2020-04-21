@@ -1,5 +1,5 @@
 # BecarioDigital
-Becario Digital - Querida! Acabe con el trabajo del becario.
+Querida! Acabe con el trabajo del becario.
 
 El BecarioDigital es un script sencillo para modificar y generar documentos de word,
 ademas de contar con una funcion para enviar el documento generado a impresion con solo dar un click.
@@ -9,10 +9,15 @@ Lo amaras cuando la carga de trabajo sea excesiva.
 
 
 Funciona de esta forma:
+
 -Solicita al usuario informacion para generar los consentimientos medicos.
+
 -Abre los documento de word que se encuentran en la carpeta formatos.
+
 -Rellena la informacion necesaria en cada uno y los guarda en un documento de word nuevo.
+
 -Envia los documentos de word a impresion, se pueden seleccionar los consentimientos por separado o en grupo.
+
 
 
 Utilizo los siguientes modulos:
