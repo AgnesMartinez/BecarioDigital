@@ -12,11 +12,11 @@ Funciona de esta forma:
 
 -Solicita al usuario informacion para generar los consentimientos medicos.
 
--Abre los documento de word que se encuentran en la carpeta formatos.
+-Abre los documentos de word que se encuentran en la carpeta formatos.
 
--Rellena la informacion necesaria en cada uno y los guarda en un documento de word nuevo.
+-Rellena la informacion necesaria en cada uno y los guarda en un nuevo documento de word.
 
--Envia los documentos de word a impresion, se pueden seleccionar los consentimientos por separado o en grupo.
+-Envia los documentos a impresion, se pueden seleccionar los consentimientos por separado o en grupo.
 
 
 
