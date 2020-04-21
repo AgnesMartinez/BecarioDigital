@@ -1,0 +1,3 @@
+PyForms
+python-docx
+pywin32
