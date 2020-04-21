@@ -16,6 +16,7 @@ Funciona de esta forma:
 
 
 Utilizo los siguientes modulos:
+
 OS: Para acceder a las herramientas del sistema
 
 PyForms: modulo de python para generar interfaces GUI, Webapp y Terminal
