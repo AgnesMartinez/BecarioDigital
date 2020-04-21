@@ -25,7 +25,7 @@ OS: Para acceder a las herramientas del sistema
 
 PyForms: modulo de python para generar interfaces GUI, Webapp y Terminal
 
-Pywin32: lo utilizo para acceder a la funcion de enviar documento a impresion (es necesario que el equipo tenga Word instalado para que funcione)
+Pywin32: API de windows para enviar documento a impresion (es necesario que el equipo tenga Word instalado para que funcione)
 
 Python-Docx: Modulo para abrir y editar documentos de Word.
 
