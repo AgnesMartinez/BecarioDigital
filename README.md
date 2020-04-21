@@ -7,25 +7,25 @@ En el hospital, es tu aliado para llenar la papeleria del paciente de una forma 
 Lo amaras cuando la carga de trabajo sea excesiva.
 
 
-Funciona de esta forma:
+**Funciona de esta forma:**
 
--Solicita al usuario informacion para generar los consentimientos medicos.
+1. Solicita al usuario informacion para generar los consentimientos medicos.
 
--Abre los documentos de word que se encuentran en la carpeta formatos.
+2. Abre los documentos de word que se encuentran en la carpeta formatos.
 
--Rellena la informacion necesaria en cada uno y los guarda en un nuevo documento de word.
+3. Rellena la informacion necesaria en cada uno y los guarda en un nuevo documento de word.
 
--Envia los documentos a impresion, se pueden seleccionar los consentimientos por separado o en grupo.
+4. Envia los documentos a impresion, se pueden seleccionar los consentimientos por separado o en grupo.
 
 
 
 Utiliza los siguientes modulos:
 
-OS: Para acceder a las herramientas del sistema
+**OS:** Para acceder a las herramientas del sistema
 
-PyForms: modulo de python para generar interfaces GUI, Webapp y Terminal
+**PyForms:** modulo de python para generar interfaces GUI, Webapp y Terminal
 
-Pywin32: API de windows para enviar documento a impresion (es necesario que el equipo tenga Word instalado para que funcione)
+**Pywin32:** API de windows para enviar documento a impresion (es necesario que el equipo tenga Word instalado para que funcione)
 
-Python-Docx: Modulo para abrir y editar documentos de Word.
+**Python-Docx:** Modulo para abrir y editar documentos de Word.
 
