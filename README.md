@@ -16,11 +16,11 @@ Funciona de esta forma:
 
 
 Utilizo los siguientes modulos:
--OS: Para acceder a las herramientas del sistema
+OS: Para acceder a las herramientas del sistema
 
--PyForms: modulo de python para generar interfaces GUI, Webapp y Terminal
+PyForms: modulo de python para generar interfaces GUI, Webapp y Terminal
 
--Pywin32: lo utilizo para acceder a la funcion de enviar documento a impresion (es necesario que el equipo tenga Word instalado para que funcione)
+Pywin32: lo utilizo para acceder a la funcion de enviar documento a impresion (es necesario que el equipo tenga Word instalado para que funcione)
 
--Python Docx: Modulo para abrir y editar documentos de Word.
+Python-Docx: Modulo para abrir y editar documentos de Word.
 
