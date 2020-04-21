@@ -1,6 +1,6 @@
 # BecarioDigital - Querida! acabe con el trabajo del becario.
 
-El BecarioDigital es un script sencillo para modificar y generar documentos de word,
+El BecarioDigital es un script sencillo para generar documentos de word,
 ademas de contar con una funcion para enviar el documento generado a impresion con solo dar un click.
 
 En el hospital, es tu aliado para llenar la papeleria del paciente de una forma elegante y eficiente.
