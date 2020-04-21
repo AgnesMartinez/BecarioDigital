@@ -1,5 +1,4 @@
-# BecarioDigital
-Querida! Acabe con el trabajo del becario.
+# BecarioDigital - Querida! Acabe con el trabajo del becario.
 
 El BecarioDigital es un script sencillo para modificar y generar documentos de word,
 ademas de contar con una funcion para enviar el documento generado a impresion con solo dar un click.
