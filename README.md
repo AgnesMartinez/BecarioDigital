@@ -19,7 +19,7 @@ Funciona de esta forma:
 
 
 
-Utilizo los siguientes modulos:
+Utiliza los siguientes modulos:
 
 OS: Para acceder a las herramientas del sistema
 
