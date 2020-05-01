@@ -3,7 +3,7 @@ import os
 import win32api
 import pyforms
 import time
-from datetime import datetime,timedelta,date
+from datetime import datetime,timedelta
 from pyforms import settings as formSettings
 from pyforms.basewidget import BaseWidget
 from pyforms.controls   import ControlText
